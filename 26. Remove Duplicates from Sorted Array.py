@@ -1,4 +1,8 @@
 #https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/922994739/
+from collections import defaultdict
+from typing import List
+
+
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         unique_nums = defaultdict(int)
