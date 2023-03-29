@@ -1,4 +1,4 @@
-#https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/922994739/
+# https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 from collections import defaultdict
 from typing import List
 
